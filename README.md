@@ -7,6 +7,6 @@
 ---
 [![Scratch](https://cdn.icon-icons.com/icons2/2699/PNG/64/mit_scratch_logo_icon_170949.png)](https://scratch.mit.edu/users/kiwichang2017)
 [![Scratch](https://cdn.icon-icons.com/icons2/2699/PNG/64/mit_scratch_logo_icon_170949.png)](https://scratch.mit.edu/users/charlie-moomoo)
-<a href="javascript:alert('CharlieMoomoo#9491')"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/64/discord_icon_130958.png" border="0" /></a>
+<a href="#javascript:alert('CharlieMoomoo#9491')"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/64/discord_icon_130958.png" border="0" /></a>
 [![Blogger](https://cdn.icon-icons.com/icons2/1996/PNG/64/blog_blogger_business_news_web_website_icon_123264.png)](https://charlie-moomoo.blogspot.com)
 [![Email](https://cdn.icon-icons.com/icons2/272/PNG/64/Email_30017.png)](mailto:charliemoomoo@yandex.com)
