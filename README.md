@@ -5,3 +5,4 @@
 <!--[![Scratch Recommended Project](https://cdn2.scratch.mit.edu/get_image/project/490426608_480x360.png)<br/>
 進度條 100%Pen on Scratch]--><!--(https://scratch.mit.edu/projects/490426608/)-->
 ---
+[![Discord](https://cdn.icon-icons.com/icons2/2108/PNG/128/discord_icon_130958.png)]()
