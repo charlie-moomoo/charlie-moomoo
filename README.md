@@ -1,6 +1,6 @@
 ## <center>我的統計數據</center>
 <!--![CharlieHandwriting](https://github-readme-stats.vercel.app/api/pin/?username=charlie-moomoo&repo=CharlieHandwriting)-->
-[![Stat](https://github-readme-stats.vercel.app/api?username=charlie-moomoo&hide=contribs,prs,issues,stars&theme=gruvbox&include_all_commits=true&show_icons=true)](#)
+[![Stat](https://github-readme-stats.vercel.app/api?username=charlie-moomoo&title_color=F0FF00&text_color=222222&bg_color=DEG,FCE38A,4bc2c5,78fee0,bbded6&hide=prs,issues,stars&include_all_commits=true&show_icons=true&icon_color=F0FF88)](#)
 
 <!--[![Scratch Recommended Project](https://cdn2.scratch.mit.edu/get_image/project/490426608_480x360.png)<br/>
 進度條 100%Pen on Scratch]--><!--(https://scratch.mit.edu/projects/490426608/)-->
