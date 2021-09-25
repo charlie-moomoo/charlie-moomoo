@@ -11,4 +11,3 @@
 # **🔎哪裡可以找到我**
 - [![Scratch](https://scratch.mit.edu/favicon.ico) Scratch](https://scratch.mit.edu/users/kiwichang2017)
 - [![Discord](https://cdn.icon-icons.com/icons2/2108/PNG/32/discord_icon_130958.png) Discord](https://discord.gg/YB6rQaHcWp)
-# **🚶凡走過必留下痕跡，點這裡來留下痕跡吧！**
