@@ -1,4 +1,5 @@
 const fs = require('fs');
+const fetch = require('node-fetch');
 var user = "kiwichang2017";
 fetch(`https://scratchdb.lefty.one/v2/user/info/${user}`).then(res => res.json()).then(data => {
   fs.writeFile('followers/scratch', `data["followers"].toString()`, function (err) {
