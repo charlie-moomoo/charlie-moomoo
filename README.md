@@ -1,4 +1,4 @@
-# **👋嗨，我是CharlieMoomoo**
+# **👋嗨，我是<img width="35px" src="https://charlie-moomoo.github.io/cowcircle.png">CharlieMoomoo**
 ### 一隻來自**🇹🇼台灣**的牛
 # **🔨我的作品**
 - [🖊️Charlie手寫體](https://charlie-moomoo.github.io/CharlieHandwriting/)
