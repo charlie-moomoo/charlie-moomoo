@@ -6,4 +6,4 @@ fetch(`https://scratchdb.lefty.one/v2/user/info/${user}`).then(res => res.json()
   console.log('Hello World > followers/scratch');
 });
     console.log(`${user} has ` + data["followers"].toString() + " followers");
-}
+})
