@@ -7,6 +7,8 @@
 <code><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code>
 <code><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></code>
 <code><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
+<code><img width="50px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /></code>
 # **🔎哪裡可以找到我**
 - [![Scratch](https://scratch.mit.edu/favicon.ico) Scratch](https://scratch.mit.edu/users/kiwichang2017)
 - [![Discord](https://cdn.icon-icons.com/icons2/2108/PNG/32/discord_icon_130958.png) Discord](https://discord.gg/YB6rQaHcWp)
+# **🚶凡走過必留下痕跡，點這裡來留下痕跡吧！**
