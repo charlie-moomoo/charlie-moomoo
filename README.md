@@ -7,7 +7,7 @@
 <code><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code>
 <code><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></code>
 <code><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></code>
+<code><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></code>
 <code><img width="50px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /></code>
 # **🔎哪裡可以找到我**
 - [![Scratch](https://scratch.mit.edu/favicon.ico) Scratch](https://scratch.mit.edu/users/kiwichang2017)
