@@ -8,9 +8,3 @@
 <code><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></code>
 <code><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
 <code><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></code>
-<code><img width="50px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /></code>
-# **🔎哪裡可以找到我**
-- [![Scratch](https://scratch.mit.edu/favicon.ico) Scratch](https://scratch.mit.edu/users/kiwichang2017)
-- [![Discord](https://cdn.icon-icons.com/icons2/2108/PNG/32/discord_icon_130958.png) Discord](https://discord.gg/YB6rQaHcWp)
-- [![Twitch](https://cdn.icon-icons.com/icons2/2699/PNG/32/twitch_logo_icon_170383.png) Twitch](https://twitch.tv/charlie_moomoo)
-- [![npm](https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png) npm](https://www.npmjs.com/~charliemoomoo)
