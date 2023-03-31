@@ -1,6 +1,11 @@
 <h1 align="center">嗨👋，我是CharlieMoomoo<img align="right" src="https://charlie-moomoo.github.io/cowscratch.png" width="128px" /></h1>
 <h3 align="center">來自台灣的一個喜歡牛的開發者</h3>
 
+<p align="left">
+  <li> 我正在使用<strong>Roblox</strong>學習<strong>Lua</strong></li>
+  <li> 我正在透過<strong>修改Minecraft插件</strong>學習<strong>Java</strong></li>
+</p>
+
 <h3 align="left">我的作品:</h3>
 <p align="left">
   <li> <a href="https://github.com/littlecow-moo/discord">牛牛</a> </li>
