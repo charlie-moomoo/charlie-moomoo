@@ -2,7 +2,7 @@
 <h3 align="center">來自台灣的一個喜歡牛的開發者</h3>
 
 <p align="left">
-  <li> 我正在使用<strong>Roblox</strong>學習<strong>Lua</strong></li>
+  <!--li> 我正在使用<strong>Roblox</strong>學習<strong>Lua</strong></li-->
   <li> 我正在透過<strong>修改Minecraft插件</strong>學習<strong>Java</strong></li>
 </p>
 
