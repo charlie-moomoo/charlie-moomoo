@@ -3,7 +3,7 @@
 
 <p align="left">
   <!--li> 我正在使用<strong>Roblox</strong>學習<strong>Lua</strong></li-->
-  <li> 我正在透過<strong>修改Minecraft插件</strong>學習<strong>Java</strong></li>
+  <li> 我正在透過<strong>製作Minecraft插件</strong>學習<strong>Java</strong></li>
 </p>
 
 <h3 align="left">我的作品:</h3>
