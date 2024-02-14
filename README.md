@@ -3,12 +3,13 @@
 
 <p align="left">
   <!--li> 我正在使用<strong>Roblox</strong>學習<strong>Lua</strong></li-->
-  <li> 我正在透過<strong>製作Minecraft插件</strong>學習<strong>Java</strong></li>
+  <!--li> 我正在透過<strong>製作Minecraft插件</strong>學習<strong>Java</strong></li-->
 </p>
 
 <h3 align="left">我的作品:</h3>
 <p align="left">
   <li> <a href="https://github.com/littlecow-moo/discord">牛牛</a> </li>
+  <li> <a href="https://github.com/charlie-moomoo/DinoHacks">DinoHacks</a> </li>
   <li> <a href="https://github.com/charlie-moomoo/mBot-apple">mBot Apple</a> </li>
   <sub> 其實還有很多，只是年代過於久遠我不想放出來.w. </sub>
 </p>
