@@ -9,6 +9,7 @@
 <h3 align="left">我的作品:</h3>
 <p align="left">
   <li> <a href="https://github.com/littlecow-moo/discord">牛牛</a> </li>
+  <li> <a href="https://github.com/charlie-moomoo/mBot-apple">mBot Apple</a> </li>
   <sub> 其實還有很多，只是年代過於久遠我不想放出來.w. </sub>
 </p>
 
